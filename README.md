@@ -2,7 +2,7 @@
 
 
 ## Hi everyone! My name is Niels, AKA "Niels™"
-- 🔭 I’m currently working on [Protected Bot](www.protectedbot.com) *note: Website is WIP atm
+- 🔭 I’m currently working on [Protected Bot](www.protectedbot.com) *note: Website is WIP atm*
 - 🌱 I’m currently learning php
 - 💬 Ask me about discord.js
 - 📫 How to reach me: Niels.#9999
