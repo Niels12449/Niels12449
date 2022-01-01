@@ -5,7 +5,7 @@
 ## About Me
 - 🔭 I’m currently working on [Protected Bot](https://www.protectedbot.com) *note: Website is WIP atm* 
 - ⚒️ I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡️ Fun fact: My name is Swedish
 
 ## Languages and Tools:
