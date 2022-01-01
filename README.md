@@ -21,6 +21,6 @@
 ## Connect with me:
 
 
-[<img align="left" alt="Niels12449 | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.hulpdiensteneindhoven.nl)
+[<img align="left" alt="Niels12449 | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.protectedbot.com)
 [<img align="left" alt="Niels12449 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>](https://discord.gg/aNjBfqvbac)
 [<img align="left" alt="Niels12449 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gwn_niels13/)
