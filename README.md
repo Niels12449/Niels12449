@@ -3,9 +3,9 @@
 ![AE4BCD53-8A9C-42CA-8ECC-CFA8C5B4D16E](https://user-images.githubusercontent.com/79902812/138931340-325fb893-711b-446d-a32b-032e0ebb5f2b.jpeg)
 
 ## About Me
-- 🔭 I’m currently working on [Protected Bot](https://www.protectedbot.com) *note: Website is WIP atm* 
-- ⚒️ I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on my frond-end developer skills
+- ⚒️ I’m currently learning frond-end development
+- 🥅 2023 Goals: Masting front-end development
 - ⚡️ Fun fact: My name is Swedish
 
 ## Languages and Tools:
