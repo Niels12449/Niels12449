@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niels™️!</h1>
 
-![AE4BCD53-8A9C-42CA-8ECC-CFA8C5B4D16E](https://user-images.githubusercontent.com/79902812/138931340-325fb893-711b-446d-a32b-032e0ebb5f2b.jpeg)
 
 ## About Me
 - 🔭 I’m currently working on my frond-end developer skills
